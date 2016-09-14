@@ -2,6 +2,5 @@
 
 The Meetup is so awesome
 
-** 14.09.2016 **
-Meetup with crazy teamworkflow
-mateman showed canva.com
+__ 14.09.2016 __
+Meetup with crazy teamworkflow and mateman showed canva.com
